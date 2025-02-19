@@ -61,10 +61,10 @@ EarlyStopping: Stops training if the validation accuracy doesn't improve after 5
 
 ## Conclusions
 
-![image](https://github.com/user-attachments/assets/0649f605-b5be-4f5b-a5e4-33d61afc642d)
+![image](https://github.com/Selvasankari8990/CNN_Assignment/blob/main/Model_graph.PNG)
 
 
-![image](https://github.com/user-attachments/assets/8203e4f6-552f-441d-ba14-8809ffe79ae4)
+![image](https://github.com/Selvasankari8990/CNN_Assignment/blob/main/NoOfImages.PNG)
 
 
  ## Observation 
