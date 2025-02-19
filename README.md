@@ -15,8 +15,7 @@ To build a CNN based model which can accurately detect melanoma. Melanoma is a t
 
 ## General Information
 - The dataset consists of 2,357 images representing both malignant and benign oncological conditions, sourced from the International Skin Imaging Collaboration (ISIC). These images have been classified according to ISIC's classification system, ensuring that each category is balanced with an equal number of images.
-
-![image](https://github.com/user-attachments/assets/768f4237-10c0-440c-8e56-bfdbc727525f)
+![image](https://github.com/Selvasankari8990/CNN_Assignment/blob/main/NoOfImages.PNG)
 
 
 ## Model Architecture
@@ -64,7 +63,7 @@ EarlyStopping: Stops training if the validation accuracy doesn't improve after 5
 ![image](https://github.com/Selvasankari8990/CNN_Assignment/blob/main/Model_graph.PNG)
 
 
-![image](https://github.com/Selvasankari8990/CNN_Assignment/blob/main/NoOfImages.PNG)
+
 
 
  ## Observation 
